@@ -12,6 +12,8 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+    \\in from1.cs use toolbox add picturebox.....
+    \\then declaretion is in Form1.Designer.cs
 
         public Form1()
         {
